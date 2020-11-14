@@ -1,0 +1,17 @@
+[
+  {
+    "typeOfSlider": 1,
+    "theUniqueIdFull": "202002141",
+    "imageLocation": "http://localhost/project_one/public/home_slider/galleryImage/background_home.jpg"
+  },
+  {
+    "typeOfSlider": 1,
+    "theUniqueIdFull": "202002141",
+    "imageLocation": "http://localhost/project_one/public/home_slider/galleryImage/banner_home02.jpg"
+  },
+  {
+    "typeOfSlider": 2,
+    "theUniqueIdFull": "202004245",
+    "imageLocation": "http://localhost/project_one/public/home_slider/galleryImage/banner_home03.jpg"
+  }
+]
